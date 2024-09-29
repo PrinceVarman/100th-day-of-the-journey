@@ -9,13 +9,16 @@ fireworksCanvas.height = window.innerHeight;
 
 const facts = [
     "Did you know? Couples who laugh together are more likely to stay together!",
-    "Love is not just a feeling; it's an action we choose every day.",
+    "Love causes a couple's heart rate to synchronize",
     "Research shows that holding hands with someone you love can alleviate pain.",
     "The heart is the only organ that can continue to beat outside the body.",
     "A study found that being in love can boost your immune system.",
     "Sharing experiences can strengthen your bond with your partner.",
-    "Did you know? The average person falls in love seven times before getting married.",
+    "Did you know? Love makes people do crazy things.",
     "Love letters were once a popular way to express feelings before texting became the norm."
+    "Being in love is like being high on drugs"
+"You can fall in love in as less as four minutes but you took 5 years"
+
 ];
 
 // Countdown timer starting from June 22, 2024, at 9:20 AM
